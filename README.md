@@ -1,3 +1,53 @@
+# 🧩 Pokémon Explorer App
+
+A clean and responsive Pokémon browser app built with **ReactJS** and **TailwindCSS**. Created as part of a front-end developer test for **PT BantuDigital**.
+
+## 🚀 Features
+
+- 🔍 Search Pokémon by name
+- 📄 Detail page for each Pokémon
+- ⚡ Fast development with Vite
+- 📱 Responsive layout (mobile & desktop)
+
+## 🛠 Tech Stack
+
+- ⚛️ ReactJS
+- 🎨 TailwindCSS
+- 🔀 React Router DOM
+- 📡 API: [PokeAPI](https://pokeapi.co/)
+- 🧠 React Hooks (`useState`, `useEffect`)
+
+## 📂 Project Structure
+
+
+
+src/
+├── components/ # Reusable UI parts
+├── styles/ # Optional custom styles
+├── App.jsx # Main routing setup
+├── main.jsx # React DOM entry point
+
+
+
+
+
+## 👨‍💻 Developed by
+
+**Aliffio Faroldi**  
+Front-end Developer Enthusiast  
+GitHub: [@Dajjal354](https://github.com/Dajjal354)
+
+---
+
+## 📌 Notes
+
+This project was developed as part of the technical test for a front-end internship position at **PT BantuDigital**. It showcases basic API integration, routing, search/filtering, and responsive UI using modern React tools.
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
