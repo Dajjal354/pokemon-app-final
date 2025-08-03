@@ -1,6 +1,6 @@
 # 🧩 Pokémon Explorer App
 
-A clean and responsive Pokémon browser app built with **ReactJS** and **TailwindCSS**. Created as part of a front-end developer test for **PT BantuDigital**.
+A clean and responsive Pokémon browser app built with **ReactJS** and **BoostrapCSS**. Created as part of a front-end developer test for **PT BantuDigital**.
 
 ## 🚀 Features
 
